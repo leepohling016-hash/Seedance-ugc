@@ -57,6 +57,10 @@ Buy believability with camera defects. Name a specific consumer camera era, list
 - Over-writing the dialogue. Long lines pull attention off the picture and worsen lip sync; keep each line under about eight words.
 ````
 
+## My examples
+
+- **Kitchen Weight-Loss Selfie UGC** — 20-second vertical front-camera, single continuous take. [Watch video](./handheld-ugc-vlog/01-kitchen-weight-loss-selfie/video-preview.mp4) · [View prompt](./handheld-ugc-vlog/01-kitchen-weight-loss-selfie/prompt.md)
+
 ## Three steps
 
 | Step | What to do |
